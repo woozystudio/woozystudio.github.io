@@ -143,6 +143,7 @@ nav.sticky .menu-btn {
 
 .home .text-one {
   font-size: 25px;
+  font-weight:100;
   color: #363f33;
 }
 
@@ -156,6 +157,7 @@ nav.sticky .menu-btn {
 .home .text-three {
   font-size: 40px;
   margin: 5px 0;
+  font-weight:100;
   color: #7a9175;
 }
 
