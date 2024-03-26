@@ -1,0 +1,40 @@
+.branding-container {
+    padding-top: 100px
+}
+
+.branding {
+  background: #fff;
+  width: auto;
+  height: 500px;
+}
+
+.branding .content {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  padding: 0 0;
+}
+
+.branding .skills-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.branding-details .text {
+  width: 70%;
+}
+
+.branding-details h1 {
+  color: #363F33;
+  font-size: 90px;
+  font-weight: 600;
+  margin-left: -10px;
+}
+
+.branding-details p {
+  padding-top: 20px;
+  color: #363F33;
+  text-align: left;
+  font-size: 20px;
+}
